@@ -1,0 +1,26 @@
+{
+  "name": "influxnodeeventemitter",
+  "version": "1.0.0",
+  "description": "sends messages to an influxDB instance",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js --experimental-modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/above-the-line/InfluxNodeEventEmitter.git"
+  },
+  "keywords": [
+    "IOT"
+  ],
+  "author": "Avi Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/above-the-line/InfluxNodeEventEmitter/issues"
+  },
+  "homepage": "https://github.com/above-the-line/InfluxNodeEventEmitter#readme",
+  "dependencies": {
+    "influx": "^5.5.2",
+    "moment": "^2.27.0"
+  }
+}

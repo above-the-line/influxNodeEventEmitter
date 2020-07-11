@@ -5,7 +5,7 @@ and posting it to an InfluxDB instance.
 
 #### STEPS TO SETUP
 
-1. Create a dataBase in InfluxDB that this service will send messages to
+1. Create a database in InfluxDB that this service will send messages to
 2. Create user/password in InfluxDB that this service will use to authenticate
 3. Run service
 

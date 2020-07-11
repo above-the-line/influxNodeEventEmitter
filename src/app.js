@@ -13,7 +13,7 @@ console.log("Starting application");
 console.log("A random data sample that conforms to the following structure ");
 console.log(ENV_VARS.initialState);
 console.log(
-  "and then a message will be sent " +
+  "will be created and then sent to an InfluxDB instance " +
     ENV_VARS.APP_VARS.MESSAGE_INTERVAL_RATE_IN_MILLISECONDS +
     " miliseconds"
 );

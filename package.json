@@ -21,6 +21,6 @@
   "homepage": "https://github.com/above-the-line/InfluxNodeEventEmitter#readme",
   "dependencies": {
     "influx": "^5.5.2",
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   }
 }
